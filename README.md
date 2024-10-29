@@ -1,4 +1,4 @@
-![logo](https://github.com/f-faizi/f-faizi/blob/main/faizi.gif)
+![logo](https://github.com/HShirzai/HSirzai/blob/main/Black%20Clouds%20Spooky%20Halloween%20Zoom%20Virtual%20Background.jpg)
 <h1 align="center">Hello, I'm Haroon shirzai</h1>
 <h3 align="center">A passionate frontend developer from Afghanistan.</h3>
 
