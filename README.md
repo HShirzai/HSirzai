@@ -1,5 +1,5 @@
 ![logo](https://github.com/f-faizi/f-faizi/blob/main/faizi.gif)
-<h1 align="center">Hello, I'm Faizullah faizi</h1>
+<h1 align="center">Hello, I'm Haroon shirzai</h1>
 <h3 align="center">A passionate frontend developer from Afghanistan.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=f-faizi&label=Profile%20views&color=0e75b6&style=flat" alt="f-faizi" /> </p>
@@ -8,7 +8,7 @@
 
 - 💬 Ask me about *React, JavaScript, CSS, Tailwind, and HTML*
 
-- 📫 How to reach me *faizullah.faizi.144@gmail.com*
+- 📫 How to reach me *haroonshirzai19@gmail.com*
 
 - ⚡ Fun fact *I Like to be funny*
 
